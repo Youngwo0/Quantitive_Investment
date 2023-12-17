@@ -1,3 +1,5 @@
+// rust Day1
+
 use std::io;
 use std::cmp::Ordering;
 use rand::Rng;
